@@ -1,1 +1,1 @@
-![My Stats](https://github-readme-stats.vercel.app/api?username=ItaloYt&show_icons=true)
+![My Stats](https://github-readme-stats.vercel.app/api?username=ItaloYt&show_icons=true&theme=tokyonight)
